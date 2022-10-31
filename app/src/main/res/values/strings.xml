@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Homework4Walmart</string>
+    <string name="password" />
+    <string name="email" />
+    <string name="new_account" />
+    <string name="dont_have" />
+    <string name="sign_in" />
+    <string name="forgot_password" />
+    <string name="sign_in_title" />
+    <string name="str_create" />
+    <string name="str_required" />
+    <string name="str_firstname" />
+    <string name="str_lastname" />
+    <string name="str_email" />
+    <string name="str_password" />
+    <string name="str_register" />
+    <string name="str_electronic" />
+    <string name="str_clothes" />
+    <string name="str_beauty" />
+    <string name="str_food" />
+    <string name="create_your_account">Create your account</string>
+    <string name="required_field">*required field</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+</resources>
